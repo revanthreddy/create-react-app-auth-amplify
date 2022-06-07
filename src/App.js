@@ -14,7 +14,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to refresh june 7th.
+            Edit <code>src/App.js</code> and save to 07/07/2022.
           </p>
           <a
             className="App-link"
